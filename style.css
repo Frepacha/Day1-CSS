@@ -18,3 +18,8 @@ div {
     font-size: size 2em;
     color: blue
 }
+
+.alert {
+    text-align: center;
+    color: red;
+}
