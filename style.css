@@ -23,3 +23,7 @@ div {
     text-align: center;
     color: red;
 }
+
+p b {
+    color: rgb(133, 81, 13);
+}
