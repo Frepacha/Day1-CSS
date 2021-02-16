@@ -21,7 +21,7 @@ div {
 
 .alert {
     text-align: center;
-    color: red;
+    color: rgba(255, 0, 0, 0.986);
 }
 
 p b {
