@@ -21,9 +21,13 @@ div {
 
 .alert {
     text-align: center;
-    color: rgba(255, 0, 0, 0.986);
+    color: rgb(255, 0, 0);
 }
 
 p b {
     color: rgb(133, 81, 13);
+}
+
+ul li b {
+    color: green;
 }
