@@ -13,3 +13,8 @@ p {
 div {
     background-color: grey;
 }
+
+#comments {
+    font-size: size 2em;
+    color: blue
+}
